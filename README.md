@@ -4,3 +4,5 @@ There are my homeworks of the course *data structure and programming*. Files I w
 fraig is the final project, and it can be viewed as the last homework of this course.
 
 Noted that the files can't be compiled, since some files that I don't have to work on are not included, and that this repository is for demonstration purpose. 
+
+# Highlights
